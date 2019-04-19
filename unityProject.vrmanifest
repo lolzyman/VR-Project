@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.angel0.3.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\kmark\\Documents\\VR Labs\\Angel 0.3\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Angel 0.3 [Testing]"
+        }
+      }
+    }
+  ]
+}
