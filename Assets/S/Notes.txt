@@ -1,0 +1,7 @@
+Notes for where the bow locking should be.
+Right now the best place to place the bow is though to be 
+x: -0.6754232
+y: 1.425632
+z: 0.4876637
+
+You should see if you can get the bow to drop from your hand.
