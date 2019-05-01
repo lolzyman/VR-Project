@@ -63,7 +63,7 @@ namespace Valve.VR.InteractionSystem
 		{
 			if ( isBurning && canSpreadFromThisSource )
 			{
-				other.SendMessageUpwards( "FireExposure", SendMessageOptions.DontRequireReceiver );
+				//other.SendMessageUpwards( "FireExposure", SendMessageOptions.DontRequireReceiver );
 			}
 		}
 
